@@ -1,3 +1,5 @@
 En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto.
 Hola esto es la gran práctica más larga que un dia sin pan
 Adiós muy buenas
+Esto es una modificación de práctica del SEMIPRESENCIAL
+a ver si funciona todo OK
